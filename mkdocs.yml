@@ -1,0 +1,7 @@
+site_name: Jim Kring's GitHub Page
+
+theme:
+  name: material
+  icon:
+    logo: material/application-brackets-outline
+    
