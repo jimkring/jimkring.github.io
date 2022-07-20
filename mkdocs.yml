@@ -24,3 +24,18 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/jimkring
+      name: jimkring on Twitter
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/jimkring/
+      name: Jim Kring on LinkedIn
+    - icon: fontawesome/brands/github 
+      link: https://www.github.com/jimkring/
+      name: jimkring on GitHub
+  generator: false # `false` removes 'Made with Material for MkDocs'
+
+copyright: Copyright &copy; 2022 Jim Kring
