@@ -4,4 +4,23 @@ theme:
   name: material
   icon:
     logo: material/application-brackets-outline
-    
+
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        # icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        # icon: material/weather-night
+        name: Switch to light mode
